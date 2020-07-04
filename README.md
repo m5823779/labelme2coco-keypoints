@@ -6,6 +6,7 @@ This tool is to convert all labelme keypoints file to one single coco keypoints 
 the following is coco keypoint format
 
 {
+
     "info": info,
     
     "licenses": [license],
