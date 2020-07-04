@@ -15,7 +15,7 @@ the following is coco keypoint format
 
 
 
-image{
+-image{
     "id": int,
     "width": int,
     "height": int,
@@ -23,7 +23,7 @@ image{
 }
 
 
-annotation{
+-annotation{
     "keypoints": [x1,y1,v1,...],
     "num_keypoints": int,
     "id": int,
@@ -36,7 +36,7 @@ annotation{
 }
 
 
-{
+-category{
     "id": int,
     "name": str,
     "supercategory": str,
